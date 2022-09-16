@@ -5,3 +5,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Koko Kodratul Munawar, [LinkedIn](https://www.linkedin.com/in/koko-kodratul-munawar-02a447246/).
